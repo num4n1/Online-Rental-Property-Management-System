@@ -1,0 +1,6 @@
+anager section of the project consists of 3 classes; Manager, ManagerController and ManagerView
+Manager controller acts as a bridge between the Manager and the ManagerView classes.
+Manager is able to log in using our GUI.
+Manager is able to request and access a periodical summary that consists of the total number of houses listed, total number of houses rented in the period, total number of active listings and the list of houses rented out in the period.
+Report employs a strategy pattern which consists of an interface GenerateReport and DisplayReportList class
+DisplayReportList formats our report and sends it to the Manager class. which then displays it in our GUI
