@@ -4,8 +4,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 This is my team's final project for the course ENSF 480 - Fall 2021
 <p align="right">(<a href="#top">back to top</a>)</p>
 
